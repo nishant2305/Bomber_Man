@@ -1,0 +1,6 @@
+Instructions :
+    -> The player can plant a Timer Bomb.
+    T - Timer Bomb Time = 3
+    -> The Bomb detonates when the player moves 3 positions in any direction.
+    -> Timer Bomb always has the count - 1, range - 1, directions - (up, left, right, down)
+    Note: The player can plant both the Ordinary bombs and Timer bomb at different position.

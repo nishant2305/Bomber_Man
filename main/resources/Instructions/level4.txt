@@ -1,0 +1,5 @@
+Instructions :
+    In this level, there will be a Dynamite which also denotes when it is triggered only by other blast
+    -> Dynamite always has the range of 1. And blasts in all directions
+    -> Get the position of Dynamite while creating the map
+    M - Dynamite

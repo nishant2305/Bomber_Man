@@ -1,0 +1,5 @@
+Instructions :
+    In this Level the map will contain 3 Powers.
+    1 - Bomb Blast Range + 1
+    2 - Bomb can blast in diagonal direction
+    3 - Bomb count + 1

@@ -1,0 +1,13 @@
+Instructions :
+    You can move in all 8 directions.
+    W - Move up
+    S - Move down
+    A - Move left
+    D - Move right
+    Q - Move diagonally up left
+    Z - Move diagonally down left
+    E - Move diagonally up right
+    C - Move diagonally down right
+    -> The player can not move to a position if there is a Wall or Brick -> If there is a Villain where the player moves. The player dies -> If there is a Key where the player moves. The player wins the game
+    -> The player can plant a bomb to destroy Bricks and Villains.
+    X - Bomb
